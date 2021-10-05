@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="92b0a831-dc7d-4261-9ef7-11c57faf1636" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/rock_paper_scissors.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hello_world/META-INF/hello_world.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello_world/META-INF/hello_world.kotlin_module" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,7 +31,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Kotlin.Rock_paper_scissorsKt">
     <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MainKt" />
       <module name="hello_world" />
@@ -38,8 +39,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Rock_paper_scissorsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Rock_paper_scissorsKt" />
+      <module name="hello_world" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Rock_paper_scissorsKt" />
         <item itemvalue="Kotlin.MainKt" />
       </list>
     </recent_temporary>
