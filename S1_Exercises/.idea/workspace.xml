@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="92b0a831-dc7d-4261-9ef7-11c57faf1636" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/rock_paper_scissors.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../S2_Exercises/src/main/kotlin/adventureGame.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/hello_world/META-INF/hello_world.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hello_world/META-INF/hello_world.kotlin_module" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,5 +73,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
